@@ -1,0 +1,10 @@
+# ignore venv files
+venv/
+# ignore logs
+logs/
+# ignore desktop.ini
+desktop.ini
+# ignore ELEData files
+ELEData/
+#ignore papers
+Papers/
